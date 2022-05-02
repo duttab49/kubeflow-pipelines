@@ -18,3 +18,5 @@ Run following commands -
 
 ### Create Kubeflow yaml tar file from python file
 - dsl-compile --py add_pipeline.py --output add_pipeline.tar.gz
+
+![image](https://user-images.githubusercontent.com/61991580/166267988-ca303ef1-5b90-4ec5-84ea-bc1f463ec6d4.png)
